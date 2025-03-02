@@ -2,3 +2,7 @@
 
 
 -Estado del proyecto: Terminado.
+
+Para ejecutar el sistema debes escribir:
+
+```npm install reac```
